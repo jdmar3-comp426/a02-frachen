@@ -1,0 +1,22 @@
+{
+  "name": "a02-frachen",
+  "version": "1.0.0",
+  "description": "Bulma assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-frachen.git"
+  },
+  "author": "Alfred Chen",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-frachen/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-frachen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
